@@ -13,6 +13,7 @@ results
 dump.rdb
 npm-debug.log
 node_modules
+bower_components
 storage
 out
 .idea

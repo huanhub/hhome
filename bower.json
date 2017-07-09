@@ -1,0 +1,17 @@
+{
+  "name": "hhome",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "haohuan"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/huanhub/hhome",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
